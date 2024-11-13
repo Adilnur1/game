@@ -195,7 +195,6 @@ class King(Hero):
             print(f"{self.name} does not attack.")
 
 
-
 round_number = 0
 
 
